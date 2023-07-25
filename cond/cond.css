@@ -1,0 +1,39 @@
+h1{text-align: center;
+color: rgb(255, 255, 255);
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+
+body{
+   
+    background-image:  url(https://images7.alphacoders.com/938/thumb-1920-938847.jpg);
+    
+}
+
+.container{
+    height: 27em ;
+    width: 30em;
+    background-color:rgb(26, 51, 22) ;
+    border-radius: 10px ;
+    padding: 2em;
+    box-shadow:1em rgba(0, 0, 0, 0.315);
+    margin-top: 5%;
+    margin-left: 30%;
+    color:rgb(255, 255, 255);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-image: url(https://cdn-icons-png.flaticon.com/512/5717/5717878.png);
+    background-size: 70%;
+    background-repeat: no-repeat;
+    background-position: 15em;
+}
+
+option{
+    background-color: rgb(34, 107, 44);
+    color:rgb(160, 160, 160)
+}
+select{
+    height: 2.5em;
+    width: 20em;
+    border-radius: 6px;
+    background-color: rgb(52, 92, 40);
+    border: none;
+    color: rgb(204, 204, 204);
+}
